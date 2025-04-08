@@ -4,8 +4,8 @@
 
 <div align="left">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suny-borim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suny-borim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hazel-borim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazel-borim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 <img  height="150" src="src/first.gif"  />
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Suny-Borim&theme=dark&hide_border=false)<br/> !-->
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> 
 !-->
-  <a href="https://www.linkedin.com/in/suny-borim"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/borim-sun"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 
